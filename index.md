@@ -2,7 +2,7 @@
 ---
 ## Natural Language Processing
 
-### Bachelor's Final Project: Text Classification in News Articles Using the Long Short-Term Memory Method
+### Final Project: Text Classification in News Articles Using the Long Short-Term Memory Method
 
 [![](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/iwanlaudin0101/Teks-Klasifikasi-Menggunakan-Model-LSTM)
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](posts/classification-articles-using-lstm-method.html)
