@@ -9,7 +9,7 @@
 
 **News Classification:** An Indonesian news classification system using LSTM method trained with 10 thousand news articles consisting of 5 categories (Entertainment, Sports, Showbiz, Technology, and Headlines).
 
-<center><img src="images/project01.png?raw=true"/></center>
+<center><img src="images/project01.jpg?raw=true"/></center>
 
 ---
 ### Model Deploypment: LSTM for News Classification
