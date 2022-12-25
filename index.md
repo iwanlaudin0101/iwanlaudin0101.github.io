@@ -30,7 +30,17 @@ To predict whether a message is spam, I first vectorize the text message into a 
 
 <center><img src="images/project02.jpg?raw=true"/></center>
 
+---
+## Data Science
 
+### DQLab in Telco: Churn Customer Prediction
+
+[![](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/iwanlaudin0101/customer-churn-prediction/blob/main/dqlab-telco-churn-prediction/customer-churn-prediction-using-machine-learning.ipynb)
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](posts/dqlab-telco-customer-churn-prediction.html)
+
+After [cleaning the data](https://github.com/iwanlaudin0101/data-cleansing-with-python/blob/main/data-science-in-telco-data-cleansing.ipynb), it is time to create a model that can predict customer churn, so as to reduce the number of customers who switch (churn) using machine learning algorithms. Finally, with the trained model, I can identify customers who are likely to churn.
+
+<center><img src="images/project03.jpg?raw=true"/></center>
 
 ---
 <center>© 2022 Iwan La Udin. Powered by Jekyll and the Minimal Theme.</center>
