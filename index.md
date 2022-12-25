@@ -14,7 +14,7 @@
 ---
 ### Model Deploypment: LSTM for News Classification
 
-[![](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/iwanlaudin0101/Deploy-in-Flask-News-Classification-using-Tensoflow)
+[![](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/iwanlaudin0101/model-deployment/tree/main/lstm-for-news-classification-app)
 
 After I completed the modeling process for classifying news articles, I refined the model by implementing a deployment model using the Python library Flask.
 
