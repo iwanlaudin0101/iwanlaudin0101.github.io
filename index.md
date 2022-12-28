@@ -27,6 +27,7 @@ After I completed the modeling process for classifying news articles, I refined 
 [![](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)]()
 
 **Problem Statement:** Cyberbullying is a problem often faced by internet users, especially children and adolescents. Cyberbullying is an act of violence committed online, through media such as text messages, social media, or chat applications. It can cause serious consequences for victims, such as emotional distress, stress, and even suicide.
+
 **Gools:** Using machine learning techniques to automatically identify and manage cyberbullying content.
 
 <center><img src="images/project04.png?raw=true"/></center>
