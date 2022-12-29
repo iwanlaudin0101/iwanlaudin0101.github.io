@@ -25,7 +25,7 @@ After I completed the modeling process for classifying news articles, I refined 
 
 [![View on Github](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/iwanlaudin0101/text-classification/blob/main/cyberbullying-detection-on-instagram/cyberbullying-detection-using-machine-learning.ipynb)
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)]()
-[![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://drive.google.com/file/d/1Gjbw_jufT_8wx23wt7zUdnH87dwwiXca/view?usp=sharing)
+[![Run in Colab](https://img.shields.io/badge/Colab-Run_in_Colab-blue?logo=Google&logoColor=FDBA18)](https://drive.google.com/file/d/1Gjbw_jufT_8wx23wt7zUdnH87dwwiXca/view?usp=sharing)
 
 **Problem Statement:** Cyberbullying is a problem often faced by internet users, especially children and adolescents. Cyberbullying is an act of violence committed online, through media such as text messages, social media, or chat applications. It can cause serious consequences for victims, such as emotional distress, stress, and even suicide.
 
